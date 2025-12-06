@@ -1,4 +1,4 @@
-🌐 WEBSITE DIRECTORY: https://marketly-one.vercel.app/
+🌐 WEBSITE DIRECTORY: [https://marketly-one.vercel.app/](https://marketly-neon.vercel.app/)
 
 🏪 MARKETLY
 
