@@ -10,42 +10,43 @@ The goal of Marketly is to provide users with a fast, accessible, and fully func
 
 🚀 Features
 
-Implement Navigation Bar for site-wide page access
-Wishlist flow implementation
-Inventory Management System
-Recently viewed products section on the homepage
-Wishlist page with notification feature
-Inventory management page accessible only to managers
-Accessibility menu feature available on every page
-Secure login page that authenticates user ID
-Product browsing page and search feature
-Shopping cart page
-Order tracking page
-Reorder feature allowing customers to reorder previous purchases
-🧰 Web Development Stack Frontend:
+  - Implement Navigation Bar for site-wide page access
+  - Wishlist flow implementation
+  - Inventory Management System
+  - Recently viewed products section on the homepage
+  - Wishlist page with notification feature
+  - Inventory management page accessible only to managers
+  - Accessibility menu feature available on every page
+  - Secure login page that authenticates user ID
+  - Product browsing page and search feature
+  - Shopping cart page
+  - Order tracking page
+  - Reorder feature allowing customers to reorder previous purchases
+🧰 Web Development Stack
+Frontend:
 
-React
-TypeScript
-Tailwind CSS
-shadcn/ui
-Vite
+- React
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Vite
 Deployment:
 
-Vercel
+-Vercel
 Backend :
 
-Backed is not develeoped but the systems is ready for API integration
+- Backed is not develeoped but the systems is ready for API integration
 
 💡 Learning
 
-This project strengthened skills in:
-Modern JavaScript frameworks
-Building with React + TypeScript
-Using Vercel for deployment and continuous delivery
-Organizing a scalable component-based system
-Working with Tailwind for consistent styling
-Structuring front-end applications for clean scalability
-Marketly showcases the blend of development structure, clean design, deployment workflow, and front-end engineering required to build a functional e-commerce platform from the ground up.
+- This project strengthened skills in:
+- Modern JavaScript frameworks
+- Building with React + TypeScript
+- Using Vercel for deployment and continuous delivery
+- Organizing a scalable component-based system
+- Working with Tailwind for consistent styling
+- Structuring front-end applications for clean scalability
+- Marketly showcases the blend of development structure, clean design, deployment workflow, and front-end engineering required to build a functional e-commerce platform from the ground up.
 
 Method of testing:
 
